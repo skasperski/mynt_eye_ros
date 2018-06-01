@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+
+	<name>mynt_eye_ros</name>
+	<version>0.0.0</version>
+	<description>The mynt_eye_ros package</description>
+
+	<maintainer email="sebastian.kasperski@dfki.de">Sebastian Kasperski</maintainer>
+
+	<license>TODO</license>
+
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<depend>roscpp</depend>
+	<depend>image_transport</depend>
+	<depend>cv_bridge</depend>
+	<depend>sensor_msgs</depend>
+
+</package>
